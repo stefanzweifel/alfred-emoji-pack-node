@@ -1,4 +1,4 @@
-const emoji = require('emojilib')
+const gemoji = require('gemoji')
 const uuidv4 = require('uuid/v4');
 const fs = require('fs');
 const archiver = require('archiver');
@@ -12,18 +12,18 @@ archive.on('error', function(err){
 archive.pipe(output);
 
 // Loop through Emojis and Generate JSON Files
-Object.keys(emoji.lib).forEach(function(key) {
+Object.keys(gemoji.name).forEach(function(emoji) {
 
-    let e = emoji.lib[key];
+    let e = gemoji.name[emoji]
     let uuid = uuidv4();
 
     // Build JSON used by Alfred
     fileContent = {
         alfredsnippet: {
-            snippet: e.char,
+            snippet: e.emoji,
             uid: uuid,
-            name: `${e.char} ${e.keywords.join(' ')}`,
-            keyword: `${e.keywords.join(' ')}`
+            name: `${e.emoji} :${e.name}:`,
+            keyword: `:${e.name}:`
         }
     }
 
