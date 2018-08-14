@@ -27,8 +27,10 @@ Object.keys(gemoji.name).forEach(function(emoji) {
         }
     }
 
-    // append a file from string
-    archive.append(JSON.stringify(fileContent, null, 2), { name: `${uuid}.json` });
+    // Add Emoji to Snippets Archive
+    archive.append(JSON.stringify(fileContent, null, 2), {
+        name: `${e.emoji} - ${uuid}.json`
+    });
 });
 
 archive.finalize();
