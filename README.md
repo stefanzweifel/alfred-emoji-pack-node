@@ -4,6 +4,8 @@
 
 ![screenshot.png](screenshot.png)
 
+⚠️ Doesn't support Unicode 10 or 11 yet. See [#2](https://github.com/stefanzweifel/alfred-emoji-pack/issues/2) for more information.
+
 ## Installation
 
 1. Download the lastest release of [Emoji Pack 2.0.alfredsnippets](https://github.com/stefanzweifel/alfred-emoji-pack/raw/master/Emoji%20Pack%202.0.alfredsnippets)
