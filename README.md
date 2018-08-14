@@ -6,7 +6,7 @@
 
 ## Installation
 
-1. Download the lastest release of [Emoji Pack 2.0.alfredsnippets]()
+1. Download the lastest release of [Emoji Pack 2.0.alfredsnippets](Emoji Pack 2.0.alfredsnippets)
 2. Double-click the file and import the snippets into Alfred
 3. Enable "Auto Expand" on your favourite Emojis
 4. 💸💸💸
