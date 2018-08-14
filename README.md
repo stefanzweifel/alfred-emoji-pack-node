@@ -2,6 +2,8 @@
 
 > Based and inspired by the awesome [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) by [Joel Califa](http://joelcalifa.com)
 
+![screenshot.png](screenshot.png)
+
 ## Installation
 
 1. Download the lastest release of [Emoji Pack 2.0.alfredsnippets]()
