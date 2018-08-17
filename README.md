@@ -8,7 +8,7 @@
 
 ## Installation
 
-1. Download the lastest release of [Emoji Pack 2.0.alfredsnippets](https://github.com/stefanzweifel/alfred-emoji-pack/raw/master/Emoji%20Pack%202.0.alfredsnippets)
+1. Download the lastest release of [Emoji Pack.alfredsnippets](https://github.com/stefanzweifel/alfred-emoji-pack/raw/master/Emoji%20Pack.alfredsnippets)
 2. Double-click the file and import the snippets into Alfred
 3. Enable "Auto Expand" on your favourite Emojis
 4. 💸💸💸
