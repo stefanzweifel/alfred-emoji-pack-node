@@ -2,6 +2,10 @@
 
 > Based and inspired by the awesome [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) by [Joel Califa](http://joelcalifa.com)
 
+
+**Deprecated: The build process has been added to [Joel's repository](https://github.com/califa/alfred-emoji-pack). Future releases will be added in that repo.**
+
+
 ![screenshot.png](screenshot.png)
 
 ⚠️ Doesn't support Unicode 10 or 11 yet. See [#2](https://github.com/stefanzweifel/alfred-emoji-pack/issues/2) for more information.
